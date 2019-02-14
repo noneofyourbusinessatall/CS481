@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{521C1CE6-C7D8-4158-8AAA-25C444EF227F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="navigation_attempt/Page1.xaml">
+    <Files>
+      <File FileName="navigation_attempt/MainPage.xaml.cs" Line="14" Column="13" />
+      <File FileName="navigation_attempt/MainPage.xaml" Line="4" Column="1" />
+      <File FileName="navigation_attempt/App.xaml.cs" Line="19" Column="32" />
+      <File FileName="navigation_attempt/App.xaml" Line="1" Column="1" />
+      <File FileName="navigation_attempt.iOS/AppDelegate.cs" Line="26" Column="33" />
+      <File FileName="navigation_attempt/Page1.xaml" Line="18" Column="15" />
+      <File FileName="navigation_attempt/Page1.xaml.cs" Line="20" Column="11" />
+      <File FileName="navigation_attempt/Page2.cs" Line="1" Column="1" />
+      <File FileName="navigation_attempt/Page3.cs" Line="1" Column="1" />
+      <File FileName="navigation_attempt/Page2.xaml" Line="9" Column="74" />
+      <File FileName="navigation_attempt/Page2.xaml.cs" Line="18" Column="15" />
+      <File FileName="navigation_attempt/Page3.xaml" Line="11" Column="13" />
+      <File FileName="navigation_attempt/Page3.xaml.cs" Line="1" Column="1" />
+      <File FileName="navigation_attempt.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.navigation__attempt.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.navigation__attempt.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.45A1D78E-3146-48AD-944E-DB7366DB9BF8" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

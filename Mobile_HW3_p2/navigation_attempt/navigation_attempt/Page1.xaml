@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="navigation_attempt.Page1"
+             Title="Hobbies"
+             >
+    <ContentPage.Content>
+   
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text="              This tabbed page details my hobbies     "></Label>
+            <Image Source="https://upload.wikimedia.org/wikipedia/commons/f/fa/Altera_StratixIVGX_FPGA.jpg" />
+            <Label Text="   I typically spend my time learning about various   "></Label>
+            <Label Text="   types of embedded systems. I tend to focus on   "></Label>
+            <Label Text="   FPGA/ASIIC development though I have dabbled in   "></Label>
+            <Label Text="   SoC programming for smaller embedded devices   "></Label>
+            <Label x:Name="MainLabel"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="navigation_attempt.Page2"
+             Title="Page 2"
+             >
+    <ContentPage.Content>
+        
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text="I am page 2"></Label>
+            <Image Source="https://xamarin.com/content/images/pages/forms/example-app.png" />
+            <Button Text="Take me to previous page" Clicked="Handle_Clicked2"></Button>
+            <Label x:Name="MainLabel"
+                   TextColor="Green"/>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

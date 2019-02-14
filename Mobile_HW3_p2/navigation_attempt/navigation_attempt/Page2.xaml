@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="navigation_attempt.Page2"
+             Title="Interests"
+             >
+    <ContentPage.Content>
+        
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text="             This tabbed page details my interests     "></Label>
+            <Image Source="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roman_SPQR_banner.svg/1200px-Roman_SPQR_banner.svg.png" />
+            <Label Text="   I enjoy learning about Ancient Rome every chance   "></Label>
+            <Label Text="   that I get. I visited the city once when I was a   "></Label>
+            <Label Text="   child and have been fascinated with their way of   "></Label>
+            <Label Text="   life, customs and heritage ever since. I have too   "></Label>
+            <Label Text="   many books on the topic and have enjoyed almost   "></Label>
+            <Label Text="   every available documentary, podcast or short-   "></Label>
+            <Label Text="   form video on the topic.   "></Label>
+            <Label x:Name="MainLabel"
+                   TextColor="Green"/>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

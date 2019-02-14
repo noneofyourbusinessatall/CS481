@@ -1,0 +1,13 @@
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/obj/Debug/netstandard2.0/navigation_attempt.csprojAssemblyReference.cache
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/obj/Debug/netstandard2.0/navigation_attempt.csproj.CoreCompileInputs.cache
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/obj/Debug/netstandard2.0/navigation_attempt.AssemblyInfoInputs.cache
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/obj/Debug/netstandard2.0/navigation_attempt.AssemblyInfo.cs
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/bin/Debug/netstandard2.0/navigation_attempt.deps.json
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/bin/Debug/netstandard2.0/navigation_attempt.dll
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/bin/Debug/netstandard2.0/navigation_attempt.pdb
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/obj/Debug/netstandard2.0/navigation_attempt.dll
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/obj/Debug/netstandard2.0/navigation_attempt.pdb
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+/Users/killo001/Projects/navigation_attempt/navigation_attempt/obj/Debug/netstandard2.0/Page2.xaml.g.cs
